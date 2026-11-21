@@ -1,0 +1,28 @@
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[19641],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"Three","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[7987],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":" colors","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[1410],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":" could","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[387],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":" be","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[6303],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":" blue","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[11],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":",","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[6176],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":" green","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[11],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":",","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[323],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":" and","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[2518],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":" red","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[13],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":".","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":"stop","stop_reason":null,"token_ids":[151645],"routed_experts":null,"sampling_mask":null,"weight_versions":[{"version":"default","start":0,"end":12}],"text":"","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-1","usage":{"prompt_tokens":16,"total_tokens":28,"completion_tokens":12},"output_mode":"text","choices":[]}
+
+data: [DONE]
+

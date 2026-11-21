@@ -1,0 +1,38 @@
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[99],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[52798],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[232],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"�ొ","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[31305],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[106],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"మ","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[52798],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[235],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"్","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[31305],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[106],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"మ","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[52798],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[223],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"ు","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[11162],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[99],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[232],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":" 🦊","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[101059],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"日本","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":null,"stop_reason":null,"token_ids":[963],"routed_experts":null,"sampling_mask":null,"weight_versions":null,"text":"é","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":null,"output_mode":"text","choices":[{"index":0,"finish_reason":"stop","stop_reason":null,"token_ids":[151645],"routed_experts":null,"sampling_mask":null,"weight_versions":[{"version":"default","start":0,"end":17}],"text":"","logprobs":null}]}
+
+data: {"request_id":"generate-tokens-parity-m0-utf8","usage":{"prompt_tokens":27,"total_tokens":44,"completion_tokens":17},"output_mode":"text","choices":[]}
+
+data: [DONE]
+

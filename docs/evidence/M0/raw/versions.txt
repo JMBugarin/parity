@@ -1,0 +1,5 @@
+tokenizers 0.23.3
+vllm 0.34.0
+torch 2.14.0+cpu
+transformers 5.22.2
+vllm/vllm-openai-cpu@sha256:1640fdc27ae499572f611ffd4dc55e0b07ce97608f33566d5834c98671b115d4

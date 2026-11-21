@@ -1,0 +1,8 @@
+/bin/
+/dist/
+*.test
+*.out
+*.prof
+.DS_Store
+/docs/evidence/*/raw/tmp/
+testdata/fuzz/
